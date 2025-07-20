@@ -6,7 +6,7 @@ publish_to: "none"
 version: 1.0.0+1
 
 environment:
-  sdk: ">=3.8.1 <4.0.0"
+  sdk: ">=3.7.0 <4.0.0"
 
 dependencies:
   flutter:
@@ -14,8 +14,6 @@ dependencies:
   supabase_flutter: ^1.10.17
   provider: ^6.1.0
   file_picker: ^6.1.1
-
-
   intl: ^0.18.1
   flutter_launcher_icons: ^0.13.1
 
